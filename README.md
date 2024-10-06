@@ -19,8 +19,8 @@ Ensure you have the following installed:
 ##### Running the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FrozenLakeAgent.git
-cd FrozenLakeAgent
+git clone https://github.com/yourusername/Q-LakeAgen.git
+cd Q-LakeAgen
 ```
 2. Train the agent:
 
