@@ -31,12 +31,12 @@ python main.py
 3. (Optional) To visualize the agent's performance in the Frozen Lake environment with rendering enabled:
 
 ```bash
-python frozenlake_agent.py --episodes 10 --render
+python main.py --episodes 10 --render
 ```
 4. Evaluate the agent after training by loading the saved Q-table:
 
 ```bash
-python frozenlake_agent.py --episodes 10 --evaluate
+python main.py --episodes 10 --evaluate
 ```
 ### Notes:
 - Training progress will be saved in result.pkl.
