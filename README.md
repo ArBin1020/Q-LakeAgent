@@ -38,6 +38,9 @@ python main.py --episodes 10 --render
 ```bash
 python main.py --episodes 10 --evaluate
 ```
+
+![img](https://imgur.com/q50zDvM.gif)
+
 ### Notes:
 - Training progress will be saved in result.pkl.
 - A graph showing cumulative rewards will be saved as frozen_lake8x8.png.
